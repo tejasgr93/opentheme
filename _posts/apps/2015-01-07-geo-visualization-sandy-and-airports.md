@@ -4,7 +4,7 @@ layout: fusion
 title: Geo Visualization - Sandy and Airports
 description: KML Map, Fusion Grid displaying live data. Hurricane Sandy impact cone, world Airport locations, and busiest airports.
 category: app
-image: /app.html
+image: /apps.html
 
 # Grid Options
 select: "col1, col2 as Location, col4"
