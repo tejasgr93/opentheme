@@ -6,6 +6,7 @@ layout: null
     {% for post in site.posts %}
     <url>
         <loc>{{ site.url }}{{ post.url | remove: 'index.html' }}</loc>
+        <loc>{{ site.url }}{{ post.url | remove: 'apps.html' }}</loc>
     </url>
     {% endfor %}
 
